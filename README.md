@@ -443,8 +443,8 @@ decisions.
 
   Team member
   ----------------
-  S. Manoj Kumar
-  Likith Kumar K
+  S. Manoj Kumar ,
+  Likith Kumar K and 
   Sumanth G S
 
 ------------------------------------------------------------------------
