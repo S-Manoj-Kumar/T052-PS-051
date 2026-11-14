@@ -1,0 +1,26 @@
+
+# Maven build output
+target/
+
+# Java compiled files
+*.class
+
+# IDE files
+.idea/
+*.iml
+
+# VS Code workspace settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+# Generated sample reports
+data/sample/decision_log.csv
+data/sample/invoices.csv
+data/sample/invoice_lines.csv
+data/sample/misuse_report.csv
+data/sample/statements.csv

@@ -1,0 +1,7 @@
+account_id,account_name,credit_limit,billing_cycle,initial_tier,payment_mode,allowed_states,per_vehicle_monthly_cap_litres,prev_month_litres
+ACC-001,Sri Ganesha Transport Pvt Ltd,1500000.00,FORTNIGHTLY,GOLD,NEFT,Karnataka;Tamil Nadu;Telangana,3000,45200
+ACC-002,Deccan Logistics LLP,900000.00,FORTNIGHTLY,SILVER,CHEQUE,Karnataka;Tamil Nadu,2500,20000
+ACC-003,Coastal Carriers,1200000.00,FORTNIGHTLY,PLATINUM,NEFT,Karnataka;Tamil Nadu;Telangana,3500,61800
+ACC-004,Nandi Cabs and Travels,400000.00,FORTNIGHTLY,SILVER,CHEQUE,Karnataka,1200,8400
+ACC-005,Hyderabad Freight Movers,1000000.00,FORTNIGHTLY,GOLD,NEFT,Telangana;Karnataka,3000,33500
+ACC-006,Malnad Minerals Haulage,60000.00,FORTNIGHTLY,SILVER,NEFT,Karnataka,2000,12000
