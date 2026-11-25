@@ -451,3 +451,13 @@ decisions.
 
 **Project:** Fuel Station Fleet Card Billing Engine\
 **Submission:** 10 SECONDS Capstone Project
+
+## 14. Project Demonstration
+
+### Demo Video
+
+[Watch the Fuel Station Fleet Card Billing Engine Demonstration](https://drive.google.com/file/d/1XpoUESvRMtb6Z_c_m-o7ylOWXmAhZSiw/view?usp=sharing)
+
+### Design Document
+
+[View T052_PS051_Design_Document.pdf](https://drive.google.com/file/d/1vJ6DpF7YsPZdf5Kw3yBnljTFP3S7W2Uh/view?usp=sharing)
